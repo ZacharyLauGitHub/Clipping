@@ -2,7 +2,7 @@
 created: 2023-02-06T03:39:57 (UTC +08:00)
 tags: []
 source: https://www.instapaper.com/read/1576447691
-author: Joel Chan陈乔尔
+author: Joel Chan
 ---
 
 # Knowledge synthesis: A conceptual model and practical guide
