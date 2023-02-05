@@ -5,7 +5,7 @@ source: https://theroamway.com/auto-initialize-random-content/
 author: Chris
 ---
 
-# How to automatically output random block content in Roam - The Roam Way --- Roam中如何自动输出随机方块内容 - The Roam Way
+# Sorry Tana, Roam can do that too: Auto-initialize random block content  抱歉 Tana，Roam 也可以这样做：自动初始化随机块内容
 
 > ## Excerpt
 > A step-by-step guide on how to output random block objects from your Roam Research graph onto your daily notes page automatically.
@@ -21,7 +21,7 @@ In this post, I’ll explain how to pull random blocks instances from your Roam 
 I created this blog to highlight some of the cool things I’ve done with Roam and wanted to share with others in the community. I promise it will not _just_ be a Tana feature comparison. That said, when you see something, say something:  
 我创建此博客是为了突出我使用 Roam 所做的一些很酷的事情，并希望与社区中的其他人分享。我保证这不仅仅是 Tana 功能比较。也就是说，当您看到某事时，请说：
 
-## **What we’re building: Automatic, random block output in Roam  
+## What we’re building: Automatic, random block output in Roam  
 我们正在构建的是：Roam 中的自动随机块输出**
 
 Alright, so we have something to aim at. Given we have a collection of _People_ objects in our graph, we want to:  
@@ -46,7 +46,7 @@ Before we dive in and build this thing, you will need to install the [SmartBlock
 -   **The entire SmartBlock’s repository is open-sourced**. If you wanted, you could fork the entire repo today, make it your own and update it until the end of time.  
     整个 SmartBlock 的存储库都是开源的。如果你愿意，你今天可以 fork 整个 repo，把它变成你自己的并更新它直到时间结束。
 
-## **Get off your soapbox and build, Chris  
+## Get off your soapbox and build, Chris  
 放下你的肥皂盒并构建，克里斯**
 
 #### **Visit _The Roam Way_ graph to snag this custom SmartBlock**.  
