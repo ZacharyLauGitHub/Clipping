@@ -1,4 +1,11 @@
-原文地址: [utgd.net](https://utgd.net/article/9311)
+---
+created: 2023-02-06T03:53:17 (UTC +08:00)
+tags: []
+source: https://utgd.net/article/9311
+author: Minja
+---
+
+# 为什么，以及如何把 DEVONthink 打造成终极 RSS 阅读器 - #Untag
 
 Claim：鉴于 DEVONthink 的移动版功能不全，本文主要讨论桌面端的场景。本文也不考虑 macOS 以外的操作系统。
 
