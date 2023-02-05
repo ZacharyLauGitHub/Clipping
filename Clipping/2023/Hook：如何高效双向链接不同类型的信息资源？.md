@@ -1,4 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [sspai.com](https://sspai.com/post/68344)
+---
+created: 2023-02-06T03:58:48 (UTC +08:00)
+tags: [笔记应用,知识管理,热门文章]
+source: https://sspai.com/post/68344
+author: 玉树芝兰
+---
+
+# Hook：如何高效双向链接不同类型的信息资源？ - 少数派
 
 > 本文将为你介绍 Hook 这款 macOS 应用。它可以为不同类型、散布在系统各处、甚至是不同应用「孤岛」内的信息资源建立双向链接，从而助你构造知识与信息的高速网络、触发灵感、轻松整合输出。
 
