@@ -1,3 +1,5 @@
+原文地址: [The Discourse Graph starter pack](https://network-goods.notion.site/The-Discourse-Graph-starter-pack-312374c813b24ec6b4d53a054371ee5a)
+
 The Discourse Graph starter pack
 
 Discourse Graphs are an information model that enables researchers and communicators to map their ideas and arguments in a modular, composable graph format.
