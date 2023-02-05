@@ -1,6 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [medium.com](https://medium.com/@sue.sk.guo/discourse-graph-in-roam-research-tips-7b13f1c8261a)
+---
+created: 2023-02-06T04:21:31 (UTC +08:00)
+tags: []
+source: https://medium.com/@sue.sk.guo/discourse-graph-in-roam-research-tips-7b13f1c8261a
+author: Sue
+---
 
-> I’m still surprised how much Roam Research potential would you find! Have been trying to use roam for......
+# Discourse Graph in Roam research tips - Sue - Medium --- Roam 研究技巧中的话语图 - Sue - Medium
 
 I’m still surprised how much Roam Research potential would you find! Have been trying to use roam for my machine learning study for 2 weeks. The combination of discourse graph and query builder in [@roam_js](https://twitter.com/roam_js) is really powerful! Here are what I found useful:  
 我仍然很惊讶您会发现漫游研究的潜力有多大！ 2 周以来，我一直在尝试使用漫游来进行我的机器学习研究。 [@roam_js](https://twitter.com/roam_js) 中的话语图和查询构建器的组合真的很强大！以下是我发现有用的内容：
