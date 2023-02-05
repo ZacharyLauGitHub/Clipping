@@ -1,3 +1,9 @@
+> 本文由 简悦 SimpRead 转码， 原文地址 www.eleanorkonik.com
+
+> How to make notes for reference, not self-improvement: A practical guide to messy notes meant to be used, not admired.
+
+> 如何做笔记以供参考，而不是自我完善：杂乱笔记的实用指南，旨在使用而非欣赏。
+
 1.  [🌲The Konik Method for Making Useful Notes  
     🌲制作有用笔记的 Konik 方法](https://www.eleanorkonik.com/the-konik-method-for-making-notes/?utm_campaign=the-konik-method-for-making-useful-notes&utm_medium=social_link&utm_source=missinglettr-twitter#)
     1.  [Motivations: Start with the WHY  
