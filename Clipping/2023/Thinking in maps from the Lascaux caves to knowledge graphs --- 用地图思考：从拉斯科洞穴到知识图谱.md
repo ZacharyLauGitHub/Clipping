@@ -1,4 +1,11 @@
-原文地址 [Thinking in maps: from the Lascaux caves to knowledge graphs](https://nesslabs.com/thinking-in-maps)
+---
+created: 2023-02-06T03:55:21 (UTC +08:00)
+tags: []
+source: https://nesslabs.com/thinking-in-maps
+author: Anne-Laure Le Cunff
+---
+
+# Thinking in maps: from the Lascaux caves to knowledge graphs --- 用地图思考：从拉斯科洞穴到知识图谱
 
 
 
