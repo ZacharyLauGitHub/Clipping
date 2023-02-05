@@ -1,4 +1,11 @@
-原文地址 [Archive Hook bookmarks with DEVONthink – Decoding](https://decoding.io/2022/02/archive-hook-bookmarks-with-devonthink/)
+---
+created: 2023-02-06T03:36:47 (UTC +08:00)
+tags: []
+source: https://decoding.io/2022/02/archive-hook-bookmarks-with-devonthink/
+author: Zsolt Benke
+---
+
+# Archive Hook bookmarks with DEVONthink – Decoding --- 使用 DEVONthink 存档 Hook 书签 – 解码
 
 I was in a [Tinderbox Meetup](https://vimeo.com/679537458) last week, which was more about [Hook](https://hookproductivity.com/) than [Tinderbox](https://www.eastgate.com/Tinderbox/). I’m not a Tinderbox user, but I’m interested in how other people use their tools.  
 上周我参加了一个 Tinderbox 聚会，更多的是关于 Hook 而不是 Tinderbox。我不是 Tinderbox 用户，但我对其他人如何使用他们的工具很感兴趣。
