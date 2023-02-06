@@ -1,4 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [chichiclub.zhubai.love](https://chichiclub.zhubai.love/posts/2196261672254046208)
+---
+created: 2023-02-07T01:54:30 (UTC +08:00)
+tags: []
+source: https://chichiclub.zhubai.love/posts/2196261672254046208
+author: 吃吃
+---
+
+# 先允许混乱存在，结构和意义会慢慢产生——Tana初体验 | 搓搓小手
 
 这是「搓搓小手」的第一篇文章。「搓搓小手」是一份关于工具的 newsletter，我会在这里分享我对各种工具的探索与使用，包括也不仅限于：效率工具、创作工具、生活方式工具、思考工具、解决问题的工具等等。
 
