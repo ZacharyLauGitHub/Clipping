@@ -1,6 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.instapaper.com](https://www.instapaper.com/read/1566461619)
+---
+created: 2023-02-07T00:55:59 (UTC +08:00)
+tags: []
+source: https://www.instapaper.com/read/1566461619
+author: Jamie Miles
+---
 
-> A simple tool for saving web pages to read later on your iPhone, iPad, Android, computer, or Kindle.
+# Think Deeper: Upgrade your HQ&A Notes with Up, Down, and Across (Pt 3) --- 深入思考：通过向上、向下和横向升级您的 HQ&A 笔记（第 3 部分）
 
 **At a glance 乍看上去**
 --------------------
