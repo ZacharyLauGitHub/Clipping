@@ -2,7 +2,7 @@
 created: 2023-02-07T00:00:34 (UTC +08:00)
 tags: []
 source: https://www.instapaper.com/read/1576719859
-author: Honest Notes
+author: Jamie Miles
 
 ---
 
