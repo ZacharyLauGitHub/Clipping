@@ -1,6 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.instapaper.com](https://www.instapaper.com/read/1566460816)
+---
+created: 2023-02-07T00:41:42 (UTC +08:00)
+tags: []
+source: https://www.instapaper.com/read/1566460816
+author: Jamie Miles
+---
 
-> A simple tool for saving web pages to read later on your iPhone, iPad, Android, computer, or Kindle.
+# Get More Value and Joy from Books with Handwritten HQ&A Notes (Pt 2) --- 通过手写的 HQ&A 笔记从书中获得更多价值和乐趣（第 2 部分）
 
 **At a glance 乍看上去**
 --------------------
