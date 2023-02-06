@@ -1,15 +1,11 @@
 ---
 created: 2023-02-06T21:00:46 (UTC +08:00)
 tags: []
-source: https://1paragraph.app/2023-02-06T12%3A38%3A06.062Z
+source: https://www.instapaper.com/read/1576681946
 author: Jeffrey Leek
 ---
 
 # How to be a modern scientist --- 如何成为一名现代科学家
-
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.instapaper.com](https://www.instapaper.com/read/1576681946)
-
-> A simple tool for saving web pages to read later on your iPhone, iPad, Android, computer, or Kindle.
 
 #### Jeffrey Leek 杰弗里 · 里克
 
