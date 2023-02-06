@@ -1,6 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.instapaper.com](https://www.instapaper.com/read/1566462506)
+---
+created: 2023-02-07T01:14:14 (UTC +08:00)
+tags: []
+source: https://words.jamoe.org/breadth-and-depth/
+author: Jamie Miles
+---
 
-> A simple tool for saving web pages to read later on your iPhone, iPad, Android, computer, or Kindle.
+# Breadth and Depth: A Practical Workflow for Efficient Note-taking (Pt 5) --- 广度和深度：高效记笔记的实用工作流程（第 5 部分）
 
 At a glance 乍看上去
 ----------------
