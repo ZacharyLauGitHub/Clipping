@@ -23,9 +23,121 @@ This is a [Leanpub](http://leanpub.com/) book. Leanpub empowers authors and publ
 
 Table of Contents 目录
 --------------------
+1.  [Introduction  介绍](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-introduction)
+2.  [Paper writing  论文写作](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-paper-writing)
+    1.  [Writing - what should I do and why?  
+        写作——我应该做什么，为什么？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-writing---what-should-i-do-and-why)
+    2.  [Writing - what tools should I use?  
+        写作——我应该使用什么工具？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-writing---what-tools-should-i-use)
+    3.  [Writing - further tips and issues  
+        写作 - 更多提示和问题](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-writing---further-tips-and-issues)
+3.  [Publishing 出版](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-publishing)
+    1.  [Publishing - what should I do and why?  
+        发布 - 我应该做什么以及为什么？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-publishing---what-should-i-do-and-why)
+    2.  [Publishing - what tools should I use?  
+        发布 - 我应该使用什么工具？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-publishing---what-tools-should-i-use)
+    3.  [Publishing - further tips and issues  
+        发布 - 更多提示和问题](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-publishing---further-tips-and-issues)
+4.  [Peer review 同行评审](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-peer-review)
+    1.  [Peer review - what should I do and why?  
+        同行评审——我应该做什么以及为什么？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-peer-review---what-should-i-do-and-why)
+    2.  [Peer review - what tools should I use?  
+        同行评审——我应该使用什么工具？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-peer-review---what-tools-should-i-use)
+    3.  [Peer review - further tips and issues  
+        同行评审——进一步的提示和问题](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-peer-review---further-tips-and-issues)
+5.  [Data sharing 数据共享](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-data-sharing)
+    1.  [Data sharing - what you I do and why?  
+        数据共享——你我做什么，为什么？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-data-sharing---what-you-i-do-and-why)
+    2.  [Data sharing - what tools should I use?  
+        数据共享——我应该使用什么工具？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-data-sharing---what-tools-should-i-use)
+    3.  [Data sharing - further tips and issues  
+        数据共享 - 更多提示和问题](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-data-sharing---further-tips-and-issues)
+6.  [Scientific blogging 科学博客](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-scientific-blogging)
+    1.  [Blogging - what should I do and why?  
+        博客 - 我应该做什么以及为什么？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-blogging---what-should-i-do-and-why)
+    2.  [Blogging - what tools should I use?  
+        写博客——我应该使用什么工具？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-blogging---what-tools-should-i-use)
+    3.  [Blogging - further tips and issues  
+        博客 - 更多提示和问题](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-blogging---further-tips-and-issues)
+7.  [Scientific code 科学守则](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-scientific-code)
+    1.  [Scientific code - what should I do and why?  
+        科学代码 - 我应该做什么，为什么？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-scientific-code---what-should-i-do-and-why)
+    2.  [Scientific code - what tools should I use?  
+        科学代码——我应该使用什么工具？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-scientific-code---what-tools-should-i-use)
+    3.  [Scientific code - further tips and issues  
+        科学代码 - 更多提示和问题](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-scientific-code---further-tips-and-issues)
+8.  [Social media in science  
+    科学中的社交媒体](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-social-media-in-science)
+    1.  [Social media - what should I do and why?  
+        社交媒体——我应该做什么以及为什么？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-social-media---what-should-i-do-and-why)
+    2.  [Social media - what tools should I use?  
+        社交媒体——我应该使用什么工具？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-social-media---what-tools-should-i-use)
+    3.  [Social media - further tips and issues  
+        社交媒体 - 更多提示和问题](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-social-media---further-tips-and-issues)
+9.  [Teaching in science  
+    科学教学](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-teaching-in-science)
+    1.  [Teaching - what should I do and why?  
+        教学 - 我应该做什么，为什么？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-teaching---what-should-i-do-and-why)
+    2.  [Teaching - what tools should I use?  
+        教学 - 我应该使用什么工具？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-teaching---what-tools-should-i-use)
+    3.  [Teaching - further tips and issues  
+        教学 - 更多提示和问题](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-teaching---further-tips-and-issues)
+10.  [Books](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-books)
+     1.  [Books - what should I do and why?  
+         书籍 - 我应该做什么，为什么？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-books---what-should-i-do-and-why)
+     2.  [Books - what tools should I use?  
+         书籍 - 我应该使用什么工具？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-books---what-tools-should-i-use)
+     3.  [Books - further tips and issues  
+         书籍 - 更多提示和问题](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-books---further-tips-and-issues)
+11.  [Internal scientific communication  
+     内部科学交流](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-internal-scientific-communication)
+     1.  [Internal communication - what should I do and why?  
+         内部沟通 - 我应该做什么以及为什么？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-internal-communication---what-should-i-do-and-why)
+     2.  [Internal communication - what tools should I use?  
+         内部沟通——我应该使用什么工具？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-internal-communication---what-tools-should-i-use)
+     3.  [Internal communication - further tips and issues  
+         内部沟通 - 更多提示和问题](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-internal-communication---further-tips-and-issues)
+12.  [Scientific talks 科学讲座](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-scientific-talks)
+     1.  [Scientific talks - what should I do and why?  
+         科学讲座 - 我应该做什么以及为什么？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-scientific-talks---what-should-i-do-and-why)
+     2.  [Scientific talks - what tools should I use?  
+         科学讲座——我应该使用什么工具？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-scientific-talks---what-tools-should-i-use)
+     3.  [Scientific talks - further tips and issues  
+         科学讲座 - 更多提示和问题](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-scientific-talks---further-tips-and-issues)
+13.  [Reading scientific papers  
+     阅读科学论文](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-reading-scientific-papers)
+     1.  [Reading scientific papers - what should I do and why?  
+         阅读科学论文——我应该做什么以及为什么？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-reading-scientific-papers---what-should-i-do-and-why)
+     2.  [Reading scientific papers - what tools should I use?  
+         阅读科学论文——我应该使用什么工具？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-reading-scientific-papers---what-tools-should-i-use)
+     3.  [Reading scientific papers - further tips and tricks  
+         阅读科学论文——进一步的提示和技巧](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-reading-scientific-papers---further-tips-and-tricks)
+14.  [Credit](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-credit)
+     1.  [Credit - what should I do and why?  
+         信用 - 我应该做什么，为什么？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-credit---what-should-i-do-and-why)
+     2.  [Credit - what tools should I use?  
+         信用 - 我应该使用什么工具？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-credit---what-tools-should-i-use)
+     3.  [Credit - further tips and issues  
+         信用 - 更多提示和问题](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-credit---further-tips-and-issues)
+15.  [Career planning 职业生涯规划](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-career-planning)
+     1.  [Career planning - what should I do and why?  
+         职业规划——我应该做什么，为什么？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-career-planning---what-should-i-do-and-why)
+     2.  [Career planning - what tools should I use?  
+         职业规划——我应该使用什么工具？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-career-planning---what-tools-should-i-use)
+16.  [Your online identity  
+     您的在线身份](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-your-online-identity)
+     1.  [Your online identity - what should I do and why?  
+         您的在线身份 - 我应该做什么以及为什么？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-your-online-identity---what-should-i-do-and-why)
+     2.  [Your online identity - what tools should you use?  
+         您的在线身份 - 您应该使用什么工具？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-your-online-identity---what-tools-should-you-use)
+     3.  [Your online identity - further tips and tricks  
+         您的在线身份 - 更多提示和技巧](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-your-online-identity---further-tips-and-tricks)
+17.  [About the author  
+     关于作者](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-about-the-author)
+     1.  [Should you follow my lead?  
+         你应该听从我的领导吗？](https://1paragraph.app/2023-02-06T11%3A20%3A34.778Zmodernscientist.epub#leanpub-auto-should-you-follow-my-lead)
 
-Guide
------
+
 
 Introduction 介绍
 ---------------
