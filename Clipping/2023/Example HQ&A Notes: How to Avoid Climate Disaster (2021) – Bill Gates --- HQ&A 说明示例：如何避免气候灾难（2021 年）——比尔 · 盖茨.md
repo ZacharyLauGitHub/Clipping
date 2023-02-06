@@ -1,6 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.instapaper.com](https://www.instapaper.com/read/1566462994)
+---
+created: 2023-02-07T01:43:54 (UTC +08:00)
+tags: []
+source: https://words.jamoe.org/example-notes-how-to-avoid-climate-disaster-2021-bill-gates/
+author: Jamie Miles
+---
 
-> A simple tool for saving web pages to read later on your iPhone, iPad, Android, computer, or Kindle.
+# Example HQ&A Notes: How to Avoid Climate Disaster (2021) – Bill Gates --- HQ&A 说明示例：如何避免气候灾难（2021 年）——比尔·盖茨
 
 These example Highlight, Question and Answer (HQ&A) Notes are a companion to the third article in our [Honest Notes](https://words.jamoe.org/tag/note-taking/) note-taking series, [A Technique for Taking More Creative Notes: Up, Down, and Across](https://www.jamoe.org/redraft/up-down-and-across).  
 这些突出显示、问答 (HQ&A) 笔记示例是我们 Honest Notes 笔记系列的第三篇文章的姊妹篇，一种制作更有创意的笔记的技巧：向上、向下和横向。
