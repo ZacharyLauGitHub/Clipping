@@ -1,6 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.instapaper.com](https://www.instapaper.com/read/1576733960)
+---
+created: 2023-02-07T01:00:35 (UTC +08:00)
+tags: []
+source: https://words.jamoe.org/jump-notes/
+author: Jamie Miles
+---
 
-> A simple tool for saving web pages to read later on your iPhone, iPad, Android, computer, or Kindle.
+# Thinking Fast with Jump Notes: Note-taking for Those that Hate Note-taking (Pt 4) --- 使用跳跃笔记快速思考：为那些讨厌做笔记的人做笔记（第 4 部分）
 
 At a glance 乍看上去
 ----------------
