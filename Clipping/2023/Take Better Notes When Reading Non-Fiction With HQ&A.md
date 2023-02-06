@@ -1,6 +1,12 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.instapaper.com](https://www.instapaper.com/read/1576719859)
+---
+created: 2023-02-07T00:00:34 (UTC +08:00)
+tags: []
+source: https://www.instapaper.com/read/1576719859
+author: Honest Notes
 
-> A simple tool for saving web pages to read later on your iPhone, iPad, Android, computer, or Kindle.
+---
+
+# Thinking Slow With HQ&A: Take Better Notes When Reading Non-Fiction (Pt 1)  使用 HQ&A 慢思考：阅读非小说类作品时做更好的笔记（第 1 部分）
 
 **At a glance 乍看上去**
 --------------------
