@@ -1,7 +1,7 @@
 ---
 created: 2023-02-07T00:55:59 (UTC +08:00)
 tags: []
-source: https://www.instapaper.com/read/1566461619
+source: https://words.jamoe.org/up-down-and-across
 author: Jamie Miles
 ---
 
