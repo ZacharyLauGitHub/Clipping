@@ -1,6 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [juejin.cn](https://juejin.cn/post/7083788887583096839)
+---
+created: 2023-02-07T03:01:15 (UTC +08:00)
+tags: [前端]
+source: https://juejin.cn/post/7083788887583096839
+author: 前端黑板报
+---
 
-> Excalidraw 是一个漂亮的在线绘图网站，亮点就是其手绘风格的英文： 但是没有对中文的手绘风格字体进行兼容处理，所以上图的中文字体有些格格不入。 那如何处理呢？ 得益于 Excalidraw 开
+# 为 Excalidraw 添加手写中文字体的最简单方法
 
 Excalidraw 是一个漂亮的在线绘图网站，亮点就是其手绘风格的英文：
 
