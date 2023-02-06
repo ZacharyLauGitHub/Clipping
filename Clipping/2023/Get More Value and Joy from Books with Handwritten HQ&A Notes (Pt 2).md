@@ -1,7 +1,7 @@
 ---
 created: 2023-02-07T00:41:42 (UTC +08:00)
 tags: []
-source: https://www.instapaper.com/read/1566460816
+source: https://words.jamoe.org/handwritten-hqa-notes
 author: Jamie Miles
 ---
 
