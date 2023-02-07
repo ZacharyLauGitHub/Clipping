@@ -1,4 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzAwODQ3NzIwMQ==&mid=2650475974&idx=2&sn=dcc6dc45290182d71e80b9ce0e1166b8&chksm=8361e2b8b4166baed2c71a983a67ad2d8d3813112d7ffa045e07d3d7ec7f7a925456191df2f0&cur_album_id=2654503343695855616&scene=189#wechat_redirect)
+---
+created: 2023-02-08T04:05:02 (UTC +08:00)
+tags: []
+source: https://mp.weixin.qq.com/s?__biz=MzAwODQ3NzIwMQ==&mid=2650475974&idx=2&sn=dcc6dc45290182d71e80b9ce0e1166b8&chksm=8361e2b8b4166baed2c71a983a67ad2d8d3813112d7ffa045e07d3d7ec7f7a925456191df2f0&cur_album_id=2654503343695855616&scene=189#wechat_redirect
+author: 如响
+---
+
+# 智能制造思维工具箱001： DIKW金字塔模型（上）
 
 > 数据和信息描述世界，知识和智慧理解世界
 
