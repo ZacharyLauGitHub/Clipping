@@ -166,20 +166,20 @@ LLMs 可以真正把你的笔记变成**第二大脑**，它们可以在你写�
 
 ## 推荐阅读
 
-[
+
 
 ![](https://www.indigox.me/content/images/2023/01/article-banners.005.jpeg)
 
-](https://www.indigox.me/the-evolution-of-machine-intelligence/)
+https://www.indigox.me/the-evolution-of-machine-intelligence/
 
-[
+
 
 ![](https://www.indigox.me/content/images/2023/01/article-banners.004.jpeg)
 
-](https://www.indigox.me/the-future-and-reality-of-web3/)
+https://www.indigox.me/the-future-and-reality-of-web3/
 
-[
+
 
 ![](https://www.indigox.me/content/images/2023/01/article-banners.003.jpeg)
 
-](https://www.indigox.me/metaverse-and-digital-transformation/)
+https://www.indigox.me/metaverse-and-digital-transformation/
