@@ -1,5 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [flowus.cn](https://flowus.cn/share/f442ee82-ad36-45b0-b60f-4f9b3f769421) Tana 个人使用经验分享（基于 P.A.R.A）  
-文档加载中
+---
+created: 2023-02-08T00:10:46 (UTC +08:00)
+tags: []
+source: https://flowus.cn/share/f442ee82-ad36-45b0-b60f-4f9b3f769421
+author: 
+---
+
+# Tana 个人使用经验分享（基于 P.A.R.A）
 
 思路说明  
 首先先简单的说明下 P.A.R.A 是什么（这个 体系没有经过时间的推敲，我个人也不太相信，但是大概得思想对于目前来说还是很受用）  
