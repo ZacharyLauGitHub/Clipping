@@ -1,6 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.instapaper.com](https://www.instapaper.com/read/1577106844)
+---
+created: 2023-02-08T02:59:06 (UTC +08:00)
+tags: []
+source: https://every.to/superorganizers/the-fall-of-roam
+author: Dan Shipper
+---
 
-> A simple tool for saving web pages to read later on your iPhone, iPad, Android, computer, or Kindle.
+# The Fall of Roam --- 漫游的堕落
 
 I used to use [Roam](https://every.to/c/roam) every day, but I don’t use it much anymore. Based on what I can see on Twitter, and a casual survey of friends, I don’t think I’m alone.  
 我以前每天都用漫游，但现在用得不多了。根据我在 Twitter 上看到的内容以及对朋友的随意调查，我认为我并不孤单。
