@@ -1,4 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [sspai.com](https://sspai.com/post/76016)
+---
+created: 2023-02-08T00:22:42 (UTC +08:00)
+tags: [热门文章,iPhone,一日一技,同步备份,Mac]
+source: https://sspai.com/post/76016
+author: 青枫
+---
+
+# 一日一技 | 怎样将 iPhone 备份保存到 Mac 的外部存储设备 - 少数派
 
 > Matrix 首页推荐 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。
 
