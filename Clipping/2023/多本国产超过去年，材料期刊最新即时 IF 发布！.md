@@ -1,4 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s/1guNN8x3tSstK_FYUPBMOQ)
+---
+created: 2023-02-07T23:24:33 (UTC +08:00)
+tags: []
+source: https://mp.weixin.qq.com/s/1guNN8x3tSstK_FYUPBMOQ
+author: 铁非
+---
+
+# 多本国产超过去年，材料期刊最新即时IF发布！
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/m7EKrE0RJdFVHkpKJrfv6pRA0GlwOc3boXTtKMxrWmibb1A0FLiataOicgkQupx0ExR2rTk1CL54zJibNT0x2icc4IA/640?wx_fmt=gif)
 
