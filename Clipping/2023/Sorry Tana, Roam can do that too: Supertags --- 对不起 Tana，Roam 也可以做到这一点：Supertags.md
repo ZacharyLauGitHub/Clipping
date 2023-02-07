@@ -1,6 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.instapaper.com](https://www.instapaper.com/read/1559131500)
+---
+created: 2023-02-07T23:11:16 (UTC +08:00)
+tags: []
+source: https://theroamway.com/build-a-supertag-in-roam-research/
+author: Chris
+---
 
-> A simple tool for saving web pages to read later on your iPhone, iPad, Android, computer, or Kindle.
+# Sorry Tana, Roam can do that too: Supertags 对不起 Tana，Roam 也可以做到这一点：Supertags
 
 December 5, 2022
 
