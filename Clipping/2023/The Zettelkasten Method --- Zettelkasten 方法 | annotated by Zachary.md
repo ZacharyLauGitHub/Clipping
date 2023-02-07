@@ -1,4 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [readwise.io](https://readwise.io/reader/shared/01grnm5vzs8gf08h6xtrrgm1vq/)
+---
+created: 2023-02-07T17:56:53 (UTC +08:00)
+tags: []
+source: https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1
+author: lesswrong.com
+---
+
+# The Zettelkasten Method --- Zettelkasten方法
 
 > Early this year, Conor White-Sullivan introduced me to the Zettelkasten method of note-taking. I woul......
 
