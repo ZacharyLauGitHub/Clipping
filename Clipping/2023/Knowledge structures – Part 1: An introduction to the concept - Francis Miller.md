@@ -1,6 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.instapaper.com](https://www.instapaper.com/read/1577042024)
+---
+created: 2023-02-07T22:31:57 (UTC +08:00)
+tags: []
+source: https://www.francismiller.com/knowledge-structures-an-introduction-to-the-concept/
+author: Indigo's Digital Mirror
+---
 
-> A simple tool for saving web pages to read later on your iPhone, iPad, Android, computer, or Kindle.
+# Knowledge structures – Part 1: An introduction to the concept - Francis Miller --- 知识结构 - 第 1 部分：概念介绍 - Francis Miller
 
 ![](https://www.francismiller.com/wp-content/uploads/time_space_knowledge_structures_3.png)
 
