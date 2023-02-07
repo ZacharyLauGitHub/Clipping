@@ -1,6 +1,13 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.instapaper.com](https://www.instapaper.com/read/1576970100)
+---
+created: 2023-02-07T16:45:31 (UTC +08:00)
+tags: []
+source: https://every.to/chain-of-thought/the-end-of-organizing
+author: by Dan Shipper
+---
 
-> A simple tool for saving web pages to read later on your iPhone, iPad, Android, computer, or Kindle.
+# The End of Organizing --- 组织的终结
+
+>How GPT-3 will turn your notes into an *actual* second brain  GPT-3 如何将你的笔记变成*实际*的第二大脑
 
 #### Sponsor Every 赞助每一位
 
