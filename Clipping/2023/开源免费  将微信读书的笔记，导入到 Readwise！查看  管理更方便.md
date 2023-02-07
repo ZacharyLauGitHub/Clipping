@@ -2,7 +2,7 @@
 created: 2023-02-08T03:40:31 (UTC +08:00)
 tags: []
 source: https://mp.weixin.qq.com/s/I9h9XNZnygmGmdoJjyegdA
-author: 正版软件
+author: 荔枝数码
 ---
 
 # 开源免费 | 将微信读书的笔记，导入到 Readwise！查看 / 管理更方便
