@@ -1,6 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.instapaper.com](https://www.instapaper.com/read/1576974325)
+---
+created: 2023-02-07T17:09:01 (UTC +08:00)
+tags: []
+source: https://curiousmaverick.com/how-to-capture-ideas-effectively-with-roam-research/
+author: Soundarya
+---
 
-> A simple tool for saving web pages to read later on your iPhone, iPad, Android, computer, or Kindle.
+# How To Capture Ideas Effectively With Roam Research --- 如何通过 Roam Research 有效捕捉创意
 
 ![](https://i0.wp.com/curiousmaverick.com/wp-content/uploads/2022/04/uWuF6JBBwN-e1649879902759.png?resize=400%2C277&ssl=1)
 
