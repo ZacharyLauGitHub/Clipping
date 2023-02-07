@@ -1,4 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [zhuanlan.zhihu.com](https://zhuanlan.zhihu.com/p/541214571)
+---
+created: 2023-02-07T17:33:50 (UTC +08:00)
+tags: [RSS 阅读,RSS]
+source: https://zhuanlan.zhihu.com/p/541214571
+author: 名吾
+---
+
+# rss信息流打造过程 rsshub+miniflux+fluent reader lite 腾讯云服务器部署 - 知乎
 
 > 具体部署过程会写在最后 成果 我可以每天只通过查看单个app就可以阅览我想关注的所有信息，不用挨个打开大佬的博客看他们有没有更新，可以很轻松的看到我关注的网站又有了什么好玩的帖子，而且多端同步，实现了抓…
 
