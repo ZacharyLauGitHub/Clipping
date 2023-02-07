@@ -1,4 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [bewaters.me](https://bewaters.me/limxtop/2021/08/18/English-introduction/)
+---
+created: 2023-02-08T01:09:07 (UTC +08:00)
+tags: [英语,自学,入门,指南,方法论,词典]
+source: https://bewaters.me/limxtop/2021/08/18/English-introduction/
+author: 文理兼修电脑首席 @若批评不自由，则赞美无意义
+---
+
+# 英语自学指南
 
 > 笔者个人经验，很多同学投入可观的时间和精力，学习英语，但最后大学毕业，连看英文文档的能力和勇气都没有，功败垂成，这很令人惋惜。
 
