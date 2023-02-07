@@ -1,6 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s/qLbxr-hy0xxSgJDlvq4S0Q)
+---
+created: 2023-02-08T03:59:30 (UTC +08:00)
+tags: []
+source: https://mp.weixin.qq.com/s/qLbxr-hy0xxSgJDlvq4S0Q
+author: 林骥
+---
 
-> 编号 0267
+# 如何用 DIKW 模型建立属于自己的知识体系？
 
 你好，我是林骥。
 
