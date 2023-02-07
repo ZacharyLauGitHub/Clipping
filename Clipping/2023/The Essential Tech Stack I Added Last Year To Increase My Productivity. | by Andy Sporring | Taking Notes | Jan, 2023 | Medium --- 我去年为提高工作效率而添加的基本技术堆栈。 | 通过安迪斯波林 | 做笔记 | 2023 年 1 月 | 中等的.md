@@ -1,6 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [medium.com](https://medium.com/taking-notes/the-essential-tech-stack-i-added-last-year-to-increase-my-productivity-18f80e955c37)
+---
+created: 2023-02-07T16:16:29 (UTC +08:00)
+tags: []
+source: https://medium.com/taking-notes/the-essential-tech-stack-i-added-last-year-to-increase-my-productivity-18f80e955c37
+author: Andy Sporring
+---
 
-> How Things Can Change During A Year, And For The Better.
+# The Essential Tech Stack I Added Last Year To Increase My Productivity. | by Andy Sporring | Taking Notes | Jan, 2023 | Medium --- 我去年为提高工作效率而添加的基本技术堆栈。 |通过安迪斯波林 |做笔记 | 2023 年 1 月 |中等的
 
 How Things Can Change During A Year, And For The Better.  
 事情如何在一年内发生变化，并且变得更好。
