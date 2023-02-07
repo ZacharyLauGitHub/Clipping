@@ -1,4 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [curiousmaverick.com](https://curiousmaverick.com/how-to-capture-ideas-effectively-with-roam-research/)
+---
+created: 2023-02-07T15:21:56 (UTC +08:00)
+tags: []
+source: https://curiousmaverick.com/how-to-capture-ideas-effectively-with-roam-research/
+author: Soundarya
+---
+
+# How To Capture Ideas Effectively With Roam Research - Curious Maverick
 
 > About two years ago, I began using a tool to capture my ideas: Roam Research. In the beginning, I u......
 
