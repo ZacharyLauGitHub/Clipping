@@ -1,6 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [readwise.io](https://readwise.io/reader/shared/01grpndpbwvmakn7j1cj0kk3ek/)
+---
+created: 2023-02-08T03:33:08 (UTC +08:00)
+tags: []
+source: https://utgd.net/article/10001
+author: Minja
+---
 
-> 将 EPUB、MOBI 和 AZW3 格式的电子书翻译为双语版本，并在常见格式之间任意转换，无论电脑、手机、iPad 还是 Kindle 均可阅读。
+# 将外文电子书翻译成双语对照版本，并在任何设备上阅读
 
 [![](https://cdn.utgd.net/assets/uploads/2023/01/20230128232504397-1140x570.jpg)](https://cdn.utgd.net/assets/uploads/2023/01/20230128232504397-scaled.jpg)
 
