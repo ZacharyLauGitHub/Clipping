@@ -1,4 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [medium.com](https://medium.com/irlproduct/how-senior-product-managers-think-differently-c5d8cd0cb52c)
+---
+created: 2023-02-08T00:37:10 (UTC +08:00)
+tags: []
+source: https://medium.com/irlproduct/how-senior-product-managers-think-differently-c5d8cd0cb52c
+author: Debbie Widjaja
+---
+
+# How senior product managers think differently --- 高级产品经理的思维方式有何不同 
 
 > A deep look into product management toolkit to advance your thinking and become a better PM
 
