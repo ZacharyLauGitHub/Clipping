@@ -5,7 +5,7 @@ source: https://zephoria.medium.com/what-if-failure-is-the-plan-2f219ea1cd62
 author: danah boyd
 ---
 
-# What if failure is the plan?. I’ve been thinking a lot about failure… | by danah boyd | Medium --- 如果失败是计划怎么办？我一直在思考失败…… |通过达纳博伊德 |中等的
+# What if failure is the plan? --- 如果失败是计划怎么办？
 
 > ## Excerpt
 > I’ve been thinking a lot about failure lately. Failure comes in many forms, but I’m especially interested in situations in which people *perceive* something as failing (or about to fail) and the…
