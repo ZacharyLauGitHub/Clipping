@@ -1,4 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [sspai.com](https://sspai.com/post/58156)
+---
+created: 2023-02-08T03:54:21 (UTC +08:00)
+tags: [学习,效率,知识管理]
+source: https://sspai.com/post/58156
+author: idealclover
+---
+
+# 如何更好地构建“知识体系” - 聊聊 DIKW 模型
 
 > 本文参与少数派「年度征文活动」# 多一度思考赛道如何更好地构建知识体系？坦白地说，这个问题又大又玄。
 
