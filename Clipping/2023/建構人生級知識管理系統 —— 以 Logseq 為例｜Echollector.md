@@ -1,4 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [echollector.tw](https://echollector.tw/2023-01)
+---
+created: 2023-02-08T01:41:25 (UTC +08:00)
+tags: []
+source: https://echollector.tw/2023-01
+author: echollector
+---
+
+# 建構人生級知識管理系統 —— 以 Logseq 為例
 
 > 從 2020 年中開始使用 Logseq 到現在，已經有將近一年半的時間了。
 
