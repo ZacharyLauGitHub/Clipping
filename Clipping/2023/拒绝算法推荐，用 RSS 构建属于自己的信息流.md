@@ -1,4 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [zwt.one](https://zwt.one/%E6%8B%92%E7%BB%9D%E7%AE%97%E6%B3%95%E6%8E%A8%E8%8D%90%E7%94%A8-rss-%E6%9E%84%E5%BB%BA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BF%A1%E6%81%AF%E6%B5%81#c7794b17beab4581862a7dab9f4f87c4)
+---
+created: 2023-02-08T21:34:05 (UTC +08:00)
+tags: []
+source: https://zwt.one/%E6%8B%92%E7%BB%9D%E7%AE%97%E6%B3%95%E6%8E%A8%E8%8D%90%E7%94%A8-rss-%E6%9E%84%E5%BB%BA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BF%A1%E6%81%AF%E6%B5%81#c7794b17beab4581862a7dab9f4f87c4
+author: James Tsang's Blog
+---
+
+# 拒绝算法推荐，用 RSS 构建属于自己的信息流
 
 > James Tsang's Blog
 
