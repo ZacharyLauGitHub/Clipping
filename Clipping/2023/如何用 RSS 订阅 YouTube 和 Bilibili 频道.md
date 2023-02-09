@@ -1,6 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.instapaper.com](https://www.instapaper.com/read/1577678160)
+---
+created: 2023-02-09T18:28:54 (UTC +08:00)
+tags: []
+source: https://utgd.net/article/9892
+author: Minja
+---
 
-> A simple tool for saving web pages to read later on your iPhone, iPad, Android, computer, or Kindle.
+# 如何用 RSS 订阅 YouTube 和 Bilibili 频道
 
 注意：如果您在使用 macOS 13，请升级到 macOS 13.2 或以上的系统。在更低版本的 macOS 13 中由于 WebKit 的问题，包括 DEVONthink 在内的大量第三方软件可能无法正常播放网页视频。
 
