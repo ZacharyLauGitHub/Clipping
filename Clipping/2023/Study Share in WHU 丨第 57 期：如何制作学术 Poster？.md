@@ -1,8 +1,13 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s/dfWRDtWPb9IpSVd4iZ5-8g)
+---
+created: 2023-02-09T20:33:58 (UTC +08:00)
+tags: []
+source: https://mp.weixin.qq.com/s/dfWRDtWPb9IpSVd4iZ5-8g
+author: 
+---
+
+# Study Share in WHU丨第57期：如何制作学术Poster？
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_gif/jHCV6ZHKNJuibJetwyvjmnFJsBQzuLyibAmXFxgfTNpZCJbxPFd43GwTfIedctlxelzKtg0ptqiaDXh8MHta03XBg/640?wx_fmt=gif)
-
-❖
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_jpg/jHCV6ZHKNJuibJetwyvjmnFJsBQzuLyibAY1gNrCvuX3nzBhb9BGtDkv4Ccy3XqjPKlDqknFPtvDibRvdrd94mcjg/640?wx_fmt=jpeg)
 
