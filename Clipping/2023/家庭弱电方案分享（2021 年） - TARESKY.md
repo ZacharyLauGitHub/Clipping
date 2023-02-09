@@ -1,4 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [taresky.com](https://taresky.com/network-setup-2021)
+---
+created: 2023-02-09T12:54:40 (UTC +08:00)
+tags: []
+source: https://taresky.com/network-setup-2021
+author: taresky
+---
+
+# 家庭弱电方案分享（2021 年
 
 > 在 2019 年，和软路由说再见 中，我表达过家庭弱电方案稳定的核心：把主路由独立出来，尽可能纯粹，只干路由器该干的活。
 
