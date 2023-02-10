@@ -1,4 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.mrhuangtalk.com](https://www.mrhuangtalk.com/posts/CDN/)
+---
+created: 2023-02-10T21:34:43 (UTC +08:00)
+tags: []
+source: https://www.mrhuangtalk.com/posts/CDN/
+author: Huang Wei
+---
+
+# MrHuangTalk架构升级——腾讯云CDN与AWS CDN搭建
 
 > 如何通过腾讯云和 AWS 搭建境内外 CDN？如何使用 AWS S3 和 Cloudfront？
 
