@@ -1,4 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [archive.is](https://archive.is/6eeyj)
+---
+created: 2023-02-10T21:27:35 (UTC +08:00)
+tags: []
+source: https://archive.is/6eeyj
+author: 红博士说
+---
+
+# 中国如何缺席ChatGPT盛宴
 
 > archived 9 Feb 2023 09:00:33 UTC
 
