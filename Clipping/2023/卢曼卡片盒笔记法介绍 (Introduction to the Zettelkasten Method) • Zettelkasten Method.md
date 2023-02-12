@@ -1,10 +1,17 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [zettelkasten.de](https://zettelkasten.de/introduction/zh/)
+---
+created: 2023-02-12T22:44:07 (UTC +08:00)
+tags: []
+source: https://zettelkasten.de/introduction/zh/
+author: sascha
+---
+
+# 卢曼卡片盒笔记法介绍 (Introduction to the Zettelkasten Method)
 
 > (Chinese Translation) Learn how the Zettelkasten works as a system, what a Zettel is made of, and how......
 
 *   Jan 28th, 2021
 
-*   • Translated by [Zhixiang Cai](https://www.zhihu.com/people/cai-zhi-xiang)
+*   Translated by [Zhixiang Cai](https://www.zhihu.com/people/cai-zhi-xiang)
 
 Read in these languages: [English](https://zettelkasten.de/introduction/) Chinese
 
