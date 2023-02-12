@@ -1,4 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [v2xtls.org](https://v2xtls.org/%E2%BD%A4clash-relay%E6%8B%AF%E6%95%91%E8%A2%AB%E5%B0%81%E2%BC%A9%E9%B8%A1/)
+---
+created: 2023-02-12T22:56:21 (UTC +08:00)
+tags: []
+source: https://v2xtls.org/%E2%BD%A4clash-relay%E6%8B%AF%E6%95%91%E8%A2%AB%E5%B0%81%E2%BC%A9%E9%B8%A1/
+author: v2xtls
+---
+
+# ⽤Clash relay拯救被封⼩鸡 - V2ray XTLS黑科技
 
 > 其实已经看到很多人这样用了，但一直没有一个完整的体系化的教程，也没有把负载均衡和故障转移这些分组和 relay 结合起来，所以就写了这个帖子，希望能帮到你们 - ⽤ Clash relay 拯救被封⼩鸡 V......
 
