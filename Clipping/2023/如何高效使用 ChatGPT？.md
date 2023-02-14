@@ -1,4 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [sspai.com](https://sspai.com/post/78289)
+---
+created: 2023-02-14T09:25:18 (UTC +08:00)
+tags: [人工智能]
+source: https://sspai.com/post/78289
+author: 玉树芝兰
+---
+
+# 如何高效使用 ChatGPT？
 
 > 流量最近，ChatGPT 非常火。
 
