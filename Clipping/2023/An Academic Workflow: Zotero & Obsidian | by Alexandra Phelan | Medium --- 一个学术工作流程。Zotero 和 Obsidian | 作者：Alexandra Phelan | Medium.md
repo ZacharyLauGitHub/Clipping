@@ -1,5 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [medium.com](https://medium.com/@alexandraphelan/an-academic-workflow-zotero-obsidian-56bf918d51ab)
+---
+created: 2023-02-23T10:11:20 (UTC +08:00)
+tags: []
+source: https://medium.com/@alexandraphelan/an-academic-workflow-zotero-obsidian-56bf918d51ab
+author: Alexandra Phelan
+---
 
+# An Academic Workflow: Zotero & Obsidian | by Alexandra Phelan --- 一个学术工作流：Zotero和Obsidian | 作者：Alexandra Phelan 
 > As an academic, my daily workflow involves collecting resources, reading and annotating them, creatin......
 
 ![](https://miro.medium.com/proxy/1*NADjCHzJSxgEj92Xr71MVQ.png)My Obsidian database in graph view, showing bidirectional links between notes, and key nodes of common tags.  
