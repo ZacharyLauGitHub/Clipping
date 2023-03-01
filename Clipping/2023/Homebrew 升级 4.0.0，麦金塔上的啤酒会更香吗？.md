@@ -1,4 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [sspai.com](https://sspai.com/post/78587)
+---
+created: 2023-03-01T20:54:31 (UTC +08:00)
+tags: []
+source: https://sspai.com/post/78587
+author: PlatyHsu
+---
+
+# Homebrew 升级 4.0.0，麦金塔上的啤酒会更香吗
 
 > TL;DRTheGood 软件信息存储方式从 git 仓库转向 JSONAPI，大幅改善了更新操作速度引入了接管手动安装应用的 --adopt 选项、PKG 安装包等实用改进 TheBad 没有改变过度分散的软件包维护 ......
 
