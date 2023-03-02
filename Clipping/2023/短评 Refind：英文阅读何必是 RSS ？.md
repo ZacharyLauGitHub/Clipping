@@ -1,4 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [sspai.com](https://sspai.com/post/78510)
+---
+created: 2023-03-02T15:49:07 (UTC +08:00)
+tags: [Matrix首页推荐,阅读,聚合阅读,RSS]
+source: https://sspai.com/post/78510
+author: gwures
+---
+
+# 短评 Refind：英文阅读何必是RSS ？
 
 > 无论是你特别想提高自己的阅读英文的耐心，还是想找到可靠的信源，Refind 总是那个可以让你牢牢掌握自己主动权的信息源。
 
