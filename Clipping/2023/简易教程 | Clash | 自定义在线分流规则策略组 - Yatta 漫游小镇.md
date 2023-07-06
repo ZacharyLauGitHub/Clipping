@@ -1,8 +1,8 @@
 ---
 created: 2023-07-06T11:07:03 (UTC +08:00)
-tags: [教程,科学上网,SS,V2Ray,Clash for Windows,自定义分流策略组,订阅托管API,Trojan,Socks5]
+tags: [教程,科学上网,Clash,自定义分流策略组,订阅托管API]
 source: https://yattazen.com/tutorial/clash-custom-config.html
-author: 
+author: Yatta 漫游小镇
 ---
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [yattazen.com](https://yattazen.com/tutorial/clash-custom-config.html)
 
