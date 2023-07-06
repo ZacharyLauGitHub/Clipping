@@ -1,3 +1,9 @@
+---
+created: 2023-07-06T11:07:03 (UTC +08:00)
+tags: [教程,科学上网,SS,V2Ray,Clash for Windows,自定义分流策略组,订阅托管API,Trojan,Socks5]
+source: https://yattazen.com/tutorial/clash-custom-config.html
+author: 
+---
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [yattazen.com](https://yattazen.com/tutorial/clash-custom-config.html)
 
 > 本教程旨在帮助大家快速建立属于自己使用习惯的 Clash 自定义分流规则和策略组，配合 Github 库或 VPS，以及托管转换配置文件，实现在线维护更新。从此不再因为订阅链接在套用第三方已有分流规则策略...
