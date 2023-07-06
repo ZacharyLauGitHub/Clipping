@@ -1,4 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [sspai.com](https://sspai.com/post/79608)
+---
+created: 2023-07-06T13:16:56 (UTC +08:00)
+tags: [热门文章,macOS,键盘]
+source: https://sspai.com/post/79608
+author: 七骑士托马斯
+---
+
+# 找一把完美适配 macOS 的第三方键盘，为什么那么难？ - 少数派
 
 > Apple 做了什么小花招，让你的机械键盘没法完美适配 macOS？
 
