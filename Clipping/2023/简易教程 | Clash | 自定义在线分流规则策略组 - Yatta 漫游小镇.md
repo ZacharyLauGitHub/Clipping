@@ -4,10 +4,8 @@ tags: [教程,科学上网,Clash,自定义分流策略组,订阅托管API]
 source: https://yattazen.com/tutorial/clash-custom-config.html
 author: Yatta 漫游小镇
 ---
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [yattazen.com](https://yattazen.com/tutorial/clash-custom-config.html)
 
-> 本教程旨在帮助大家快速建立属于自己使用习惯的 Clash 自定义分流规则和策略组，配合 Github 库或 VPS，以及托管转换配置文件，实现在线维护更新。从此不再因为订阅链接在套用第三方已有分流规则策略...
-
+# 简易教程  Clash  自定义在线分流规则策略组 - Yatta漫游小镇
 > 本教程旨在帮助大家快速建立属于自己使用习惯的 Clash 自定义分流规则和策略组，配合 Github 库或 VPS，以及托管转换配置文件，实现在线维护更新。从此不再因为订阅链接在套用第三方已有分流规则策略组更新后，个人修改的分流规则策略组被覆盖。
 
 该教程所使用的系统环境：  
