@@ -1,6 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [sspai.com](https://sspai.com/post/80910)
+---
+created: 2023-07-11T17:57:45 (UTC +08:00)
+tags: [效率思维,效率,效率工具,笔记]
+source: https://sspai.com/post/80910
+author: 吕立青_JimmyLv
+---
 
-> 展信佳，曾经有无数新的笔记工具摆在我面前，我没有珍惜，等我失去的时候，我才后悔莫及，人世间最痛苦的事莫过于此。
+# 序章：为什么都 2023 年了，我还在用 Roam Research 写笔记？ - 少数派
 
 展信佳，
 
