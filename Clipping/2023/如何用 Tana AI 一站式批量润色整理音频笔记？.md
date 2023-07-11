@@ -1,6 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [xiaobot.net](https://xiaobot.net/post/458970a7-ff81-44b9-bd91-885d0ed7125d?timestamp=1689063524296)
+---
+created: 2023-07-11T18:07:04 (UTC +08:00)
+tags: []
+source: https://xiaobot.net/post/458970a7-ff81-44b9-bd91-885d0ed7125d?timestamp=1689063524296
+author: 
+---
 
-> 用好 Tana AI Builder ，充分体验和发挥 AI 工作流的强大性能。
+# 如何用 Tana AI 一站式批量润色整理音频笔记？
 
 用好 Tana AI Builder ，充分体验和发挥 AI 工作流的强大性能。
 
