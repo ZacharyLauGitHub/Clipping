@@ -1,4 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [sspai.com](https://sspai.com/post/81470)
+---
+created: 2023-07-29T13:00:41 (UTC +08:00)
+tags: [人工智能]
+source: https://sspai.com/post/81470
+author: 玉树芝兰
+---
+
+# 如何让 ChatGPT 更懂你？新功能 Custom Instructions 尝试 - 少数派
 
 > 祝 AI 问答使用愉快！
 
