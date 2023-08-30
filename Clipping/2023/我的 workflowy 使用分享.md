@@ -1,6 +1,16 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s/4WFKI6FarM3AFgQuxq7OHw)
+---
+created: 2023-08-30T19:25:16 (UTC +08:00)
+tags: []
+source: https://mp.weixin.qq.com/s/4WFKI6FarM3AFgQuxq7OHw
+author: Seyee
+---
 
+# 我的 workflowy 使用分享
+
+> ## Excerpt
 > workflowy 绝对是一款被低估的软件
+
+---
 
 可能很多人都没听过 workflowy，它是一款大纲笔记软件，已经有十几年的历史了，好用的东西不能我一个人知道，所以写一篇自来水文章安利。
 
