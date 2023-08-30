@@ -1,6 +1,16 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s/9lbrlzqnfEgPVqNTOg5O_A)
+---
+created: 2023-08-30T19:22:39 (UTC +08:00)
+tags: []
+source: https://mp.weixin.qq.com/s/9lbrlzqnfEgPVqNTOg5O_A
+author: Seyee
+---
 
+# 用 obsidian 两年多，现在我怎么同步和使用？
+
+> ## Excerpt
 > 最近的快乐源泉是 obsidian 给的！
+
+---
 
 用 obsidian 已经两年多了，距离我上次更新[《如何用 obsidian 和 flomo 搭建知识体系》](http://mp.weixin.qq.com/s?__biz=MzAxMzIyNjgyOQ==&mid=2488505139&idx=1&sn=ee34aed06aabd4e5ea0a03f27540c4ef&chksm=8a02f511bd757c07709b89d23efb2149201afd96526ac1f437340dda8f1945433dbdc6cbc5db&scene=21#wechat_redirect)已经过去一年半了，重新看了一遍以前写的内容，当时选择 obsidian 的优点，现在依然成立。
 
