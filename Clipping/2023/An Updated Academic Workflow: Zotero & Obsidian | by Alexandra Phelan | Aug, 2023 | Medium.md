@@ -1,12 +1,16 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [medium.com](https://medium.com/@alexandraphelan/an-updated-academic-workflow-zotero-obsidian-cffef080addd)
+---
+created: 2023-08-30T18:21:10 (UTC +08:00)
+tags: []
+source: https://medium.com/@alexandraphelan/an-updated-academic-workflow-zotero-obsidian-cffef080addd
+author: Alexandra Phelan
+---
 
-> August 2023
+# An Updated Academic Workflow: Zotero & Obsidian | by Alexandra Phelan | Aug, 2023 | Medium
 
-[
+> ## Excerpt
+> Last year, I wrote the post An Academic Workflow: Zotero & Obsidian setting out how I use both programs as part of my work as an academic to conduct research and write publications. It became rather…
 
-![](https://miro.medium.com/v2/resize:fill:88:88/0*CDY7c6M7OFmdO0OX.jpeg)
-
-](https://medium.com/@alexandraphelan?source=post_page-----cffef080addd--------------------------------)
+---
 
 August 2023
 
