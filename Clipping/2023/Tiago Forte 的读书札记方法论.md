@@ -1,6 +1,16 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [sspai.com](https://sspai.com/post/62718)
+---
+created: 2023-09-03T12:32:15 (UTC +08:00)
+tags: [Matrix首页推荐,热门文章]
+source: https://sspai.com/post/62718
+author: HarveyJanson
+---
 
+# Tiago Forte 的读书札记方法论 - 少数派
+
+> ## Excerpt
 > 「读书破万卷，下笔如有神。」但现实往往是，书读得不少，笔记记得挺多，可读便只是读了、记便只是记了，混乱不堪，缺乏整理，到用时根本无从下手。
+
+---
 
 ### **Matrix 首页推荐**
 
