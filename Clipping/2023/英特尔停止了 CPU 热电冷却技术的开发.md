@@ -1,4 +1,11 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s/4xJIbOgMbznYeczLocxBfg)
+---
+created: 2023-11-15T19:32:30 (UTC +08:00)
+tags: []
+source: https://mp.weixin.qq.com/s/4xJIbOgMbznYeczLocxBfg
+author: 热管理行业观察
+---
+
+# 英特尔停止了CPU热电冷却技术的开发
 
 > 英特尔将不再为其最新的第 14 代酷睿 \x26quot;Raptor Lake Refresh \x26quot;处理器提供 Cryo Cooling 软件支持。
 
